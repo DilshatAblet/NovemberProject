@@ -4,5 +4,6 @@ public class Flash {
 
         System.out.println("Flash runs Really Fast");
 
+        System.out.println("last message for flash class");
     }
 }
